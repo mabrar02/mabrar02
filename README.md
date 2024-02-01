@@ -1,9 +1,9 @@
-👋 Hi, I’m Mahdeen!
-🔭 I'm interested in software engineering, mobile architecture, and game development.
-🤝 I’m looking for great learning experiences through internships or new grad positions!
-🌱 I’m currently learning more about MVC architecture and I've recently been working on a new, full-stack social media app for food lovers!
-💬 Ask me about music if you want to hear me talk for hours :P
-⚡ Fun fact about me is I'm the second ranked fourth year in Dalhousie CS!
+- 👋 Hi, I’m Mahdeen!
+- 🔭 I'm interested in software engineering, mobile architecture, and game development.
+- 🤝 I’m looking for great learning experiences through internships or new grad positions!
+- 🌱 I’m currently learning more about MVC architecture and I've recently been working on a new, full-stack social media app for food lovers!
+- 💬 Ask me about music if you want to hear me talk for hours :P
+- ⚡ Fun fact about me is I'm the second ranked fourth year in Dalhousie CS!
 
 
 ## 🌐 Socials:
