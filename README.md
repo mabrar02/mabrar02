@@ -1,9 +1,13 @@
-# 💫 About Me:
-🔭 I'm currently working on a new, full-stack social media app for food lovers!<br>🤝 I’m looking for great internship and new grad oppurtunities.<br>🌱 I’m learning more about MVC architecture with Ruby on Rails and MERN.<br>💬 Ask me about music and you'll have 20 new artists recommended to you ;)<br>⚡ Fun fact about me is I'm currently ranked second in terms of GPA in my year!
+👋 Hi, I’m Mahdeen!
+🔭 I'm interested in software engineering, mobile architecture, and game development.
+🤝 I’m looking for great learning experiences through internships or new grad positions!
+🌱 I’m currently learning more about MVC architecture and I've recently been working on a new, full-stack social media app for food lovers!
+💬 Ask me about music if you want to hear me talk for hours :P
+⚡ Fun fact about me is I'm the second ranked fourth year in Dalhousie CS!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahdeen-abrar-982ab2231/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahdeen-abrar-982ab2231/) 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/nxjchrp2ww6oclnbuz98bqzlx?si=abf47d9dfca84e11)
 
 # 💻 Tech Stack:
