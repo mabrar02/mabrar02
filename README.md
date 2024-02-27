@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Mahdeen!
 - 🔭 I'm interested in software engineering, mobile architecture, and game development.
 - 🤝 I’m looking for great learning experiences through internships or new grad positions!
-- 🌱 I’m currently learning more about MVC architecture and I've recently been working on a social media app for food lovers!
+- 🌱 I’m currently learning more about Machine Learning and I've recently been working on a chat bot for song recommendations!
 - 💬 Ask me about music if you want to hear me talk for hours :P
 - ⚡ Fun fact about me is I'm the second ranked fourth year at Dalhousie CS!
 
