@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Mahdeen!
 - 🔭 I'm interested in software engineering, mobile architecture, and game development.
 - 🤝 I’m looking for great learning experiences through internships or new grad positions!
-- 🌱 I’m currently learning more about Machine Learning and I've recently been working on a chat bot for song recommendations!
+- 🌱 I’m currently learning more about Machine Learning and I'm actively building an AI game for Google's Hackathon!
 - 💬 Ask me about music if you want to hear me talk for hours :P
 - ⚡ Fun fact about me is I'm the second ranked fourth year at Dalhousie CS!
 
@@ -16,6 +16,7 @@
 
 
 ## 🎓 Previous Work Experience:
+- [Koii Network](https://www.koii.network/), Web3 Development Intern
 - [Avanade](https://www.avanade.com/en-ca), Associate Software Engineer
 - [Quest Software](https://www.quest.com/), Software Engineer Intern
 - [Code Ninjas](https://www.codeninjas.com/), Coding Instructor
