@@ -2,9 +2,9 @@
 - 👋 Hi, I’m Mahdeen!
 - 🔭 I'm interested in software engineering, mobile architecture, and game development.
 - 🤝 I’m looking for great learning experiences through internships or new grad positions!
-- 🌱 I’m currently learning more about Machine Learning and I'm actively building an AI game for Google's Hackathon!
+- 🌱 I’m currently learning more about Machine Learning and I'm actively building my own AI!
 - 💬 Ask me about music if you want to hear me talk for hours :P
-- ⚡ Fun fact about me is I'm the second ranked fourth year at Dalhousie CS!
+- ⚡ A fun fact about me is that I graduated at the top of my class!
 
 
 ## 🌐 Socials:
