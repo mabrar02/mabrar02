@@ -1,8 +1,8 @@
 ## 👀 About Me:
 - 👋 Hi, I’m Mahdeen!
-- 🔭 I'm interested in software engineering, mobile architecture, and game development.
-- 🤝 I’m looking for great learning experiences through internships or new grad positions!
-- 🌱 I’m currently learning more about Microservice Architecture and building a scalable backend!
+- 🔭 I'm interested in software engineering, machine learning, and game development.
+- 🤝 I’m looking for junior or new grad positions!
+- 🌱 I’m currently learning more about Machine Learning Systems!
 - 💬 Ask me about music if you want to hear me talk for hours :P
 - ⚡ A fun fact about me is that I graduated at the top of my class!
 
