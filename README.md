@@ -1,10 +1,9 @@
 ## 👀 About Me:
 - 👋 Hi, I’m Mahdeen!
-- 🔭 I'm interested in machine learning and web development.
+- 🔭 I'm interested in machine learning and game development.
 - 🤝 I’m currently building IndieBuff!
-- 🌱 I’m currently learning more about Machine Learning Systems!
-- 💬 Ask me about music if you want to hear me talk for hours :P
-- ⚡ A fun fact about me is that I graduated at the top of my class!
+- 🌱 I’m currently learning more about Indie Studios!
+- 👾 My favourite game is Celeste :)
 
 
 ## 🌐 Socials:
