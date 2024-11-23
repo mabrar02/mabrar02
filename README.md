@@ -21,5 +21,5 @@
 - [Code Ninjas](https://www.codeninjas.com/), Coding Instructor
 
 ## 📫 Let's Talk!
-- Email: [mahdeen02@gmail.com](mailto:mahdeen02@gmail.com)
+- Email: [mahdeen@indiebuff.ai](mailto:mahdeen@indiebuff.ai)
 - Discord: #addit
