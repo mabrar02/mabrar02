@@ -1,9 +1,8 @@
 ## 👀 About Me:
 - 👋 Hi, I’m Mahdeen!
-- 🔭 I'm interested in machine learning and game development.
-- 🤝 I’m currently building IndieBuff!
-- 🌱 I’m currently learning more about Indie Studios!
-- 👾 My favourite game is Celeste :)
+- 🔭 I'm working on Jestr.
+- 🌱 I’m actively learning more about indie game studios!
+- 👾 My current favourite game is ODDCORE :)
 
 
 ## 🌐 Socials:
