@@ -14,11 +14,12 @@
 
 
 ## 🎓 Previous Work Experience:
-- [Koii Network](https://www.koii.network/), Web3 Development Intern
-- [Avanade](https://www.avanade.com/en-ca), Associate Software Engineer
-- [Quest Software](https://www.quest.com/), Software Engineer Intern
+- [IndieBuff](https://www.indiebuff.ai), CEO & Founder
+- [Koii Network](https://www.koii.network/), Software Development Intern
+- [Avanade](https://www.avanade.com/en-ca), Software Development Intern
+- [Quest Software](https://www.quest.com/), Software Development Intern
 - [Code Ninjas](https://www.codeninjas.com/), Coding Instructor
 
 ## 📫 Let's Talk!
-- Email: [mahdeen@indiebuff.ai](mailto:mahdeen@indiebuff.ai)
+- Email: [mahdeen@jestr.gg](mailto:mahdeen@jestr.gg)
 - Discord: #addit
