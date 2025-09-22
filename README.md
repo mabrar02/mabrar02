@@ -1,8 +1,8 @@
 ## 👀 About Me:
 - 👋 Hi, I’m Mahdeen!
-- 🔭 I'm working on Jestr.
-- 🌱 I’m actively learning more about indie game studios!
-- 👾 My current favourite game is ODDCORE :)
+- 🔭 I'm working on [Jestr](https://www.jestr.gg).
+- 🌱 I’m actively learning more about content creation
+- 👾 My favourite indie game is Before Your Eyes :)
 
 
 ## 🌐 Socials:
